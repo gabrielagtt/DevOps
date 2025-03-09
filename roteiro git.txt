@@ -1,0 +1,13 @@
+Git - Roteiro
+-criar repositório remoto
+-clonar repositório para o local
+-adicionar token pra autenticar
+	-git remote set-url origin https://aqui_vai_o_token@github.com/gabrielagtt/DevOps.git
+
+-criar arquivo
+-git add
+-git commit
+-git push
+
+
+
