@@ -18,6 +18,9 @@ public class Principal {
 		
 		System.out.printf("O IMC resultante é: %.2f", imc);
 		
+		
+		//teste adicionando um comentário
+		
 	}
 
 }
